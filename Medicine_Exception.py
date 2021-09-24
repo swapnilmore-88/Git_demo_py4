@@ -42,9 +42,9 @@ a = Matrimony(77,"M")
 a.samplefunction()
 
 
-<<<<<<< Updated upstream
-"sgfdgdg"
+"before stash save"
 
+<<<<<<< Updated upstream
 
 <<<<<<< HEAD
 "before stash"
@@ -64,3 +64,5 @@ a.samplefunction()
 
 
 "made after saving and before apply"
+=======
+>>>>>>> Stashed changes
