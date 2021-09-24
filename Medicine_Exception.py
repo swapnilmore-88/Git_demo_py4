@@ -43,5 +43,8 @@ a.samplefunction()
 
 
 "sgfdgdg"
-"fgfdgdfgdgdg"
+
 "jnvjbvj"
+
+
+"after saving stash"
