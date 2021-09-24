@@ -39,7 +39,7 @@ class Myntra(Ecommerce):
 f1 = Flipkart()
 print(f1.online_payment(100))
 # m1 = Myntra()
-"by python second"
+"by python second asdfsdfs"
 # we cant create instance of abstract class
 # e = Ecommerce()
 
