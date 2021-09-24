@@ -1,5 +1,9 @@
 gfhgfhjgfjngf
 fdbgfdgd
+<<<<<<< HEAD
 cvbgfgfgfgfgfgfgfgfgfgfgfgfgfgf
 
 after git status save
+=======
+cvbgfgfgfgfgfgfgfgfgfgfgfgfgfgfdfhdfhdhtg
+>>>>>>> 08b20c0b50a52b66ec16ce64ef56769031ca7063
