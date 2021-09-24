@@ -60,3 +60,7 @@ a.samplefunction()
 "changes made for stash"
 >>>>>>> Stashed changes
 >>>>>>> 08b20c0b50a52b66ec16ce64ef56769031ca7063
+
+
+
+"made after saving and before apply"
