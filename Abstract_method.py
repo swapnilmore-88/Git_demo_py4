@@ -41,7 +41,7 @@ print(f1.online_payment(100))
 # m1 = Myntra()
 <<<<<<< HEAD
 "finally"
-
+"to check from python"
 # we cant create instance of abstract class
 # e = Ecommerce()
 
