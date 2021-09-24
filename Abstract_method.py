@@ -35,7 +35,7 @@ class Flipkart(Ecommerce):
 
 class Myntra(Ecommerce):
     pass
-
+"to check"
 f1 = Flipkart()
 print(f1.online_payment(100))
 # m1 = Myntra()
