@@ -43,4 +43,6 @@ a.samplefunction()
 
 
 "sgfdgdg"
-"fgfdgdfgdgdg"
+
+
+"before stash"
