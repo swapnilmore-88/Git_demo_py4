@@ -42,9 +42,17 @@ a = Matrimony(77,"M")
 a.samplefunction()
 
 
+<<<<<<< Updated upstream
 "sgfdgdg"
 
 
 
 
 "after saving stash2"
+=======
+
+"fgfdgdfgdgdg"
+"jnvjbvj"
+
+"changes made for stash"
+>>>>>>> Stashed changes
