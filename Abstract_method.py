@@ -47,3 +47,6 @@ print(f1.online_payment(100))
 
 "on python"
 "sfsdfsd"
+
+
+"for reset soft"
