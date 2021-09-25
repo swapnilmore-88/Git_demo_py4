@@ -23,7 +23,7 @@ class Ecommerce(ABC):
     def give_rating(self):
         pass
 
-
+"jus fun"
 class Flipkart(Ecommerce):
 
     def online_payment(self, amount):
